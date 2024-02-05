@@ -28,7 +28,7 @@ get_header();
         <div class="row">
             <div class="col-md-12">
                 <header class="page-header">
-                    <h1 class="page-title fw-lighter">Ooops! You're looking at the wrong sky.</h1>
+                    <h1 class="page-title fw-lighter">That page cannot be found</h1>
                 </header>
                 <div class="page-content">
                     <p class="fw-lighter">It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
